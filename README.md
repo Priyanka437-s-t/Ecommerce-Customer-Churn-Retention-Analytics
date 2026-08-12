@@ -71,7 +71,31 @@ The data covers approximately **100K e-commerce orders** and provides informatio
 | **Pandas** | Data manipulation and analysis |
 | **Matplotlib** | Data visualization |
 | **Power BI** | Interactive dashboard development |
-| **Git & GitHub** | Version control and project portfolio |
+| **Git & GitHub** | Version control and project portfolio
+
+---
+
+# 📸 Dashboard Preview
+
+## Page 1 — Executive Overview
+
+![Executive Overview](08_Dashboard_Screenshots/Page1_Executive_Overview.png)
+
+## Page 2 — Customer Analysis
+
+![Customer Analysis](08_Dashboard_Screenshots/Page2_Customer_Analysis.png)
+
+## Page 3 — Product Performance
+
+![Product Performance](08_Dashboard_Screenshots/Page3_Product_Performance.png)
+
+## Page 4 — Seller Performance
+
+![Seller Performance](08_Dashboard_Screenshots/Page4_Seller_Performance.png)
+
+## Page 5 — Order & Payment Analysis
+
+![Order & Payment Analysis](08_Dashboard_Screenshots/Page5_Order_Payment_Analysis.png) |
 
 ---
 
