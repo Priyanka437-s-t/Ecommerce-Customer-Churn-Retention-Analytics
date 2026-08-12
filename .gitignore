@@ -1,0 +1,27 @@
+# Large project files
+02_Dataset/Raw_Datasets/olist_geolocation_dataset.csv
+03_Excel/Olist_Excel_Analysis.xlsx
+02_Dataset/Raw_Datasets/
+03_Excel/
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Power BI template files
+*.pbit
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Large project files
+02_Dataset/Raw_Datasets/
+03_Excel/
